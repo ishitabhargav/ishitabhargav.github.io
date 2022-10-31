@@ -1,0 +1,166 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Inconsolata", sans-serif;
+  box-sizing: border-box;
+  background: #0a192f;
+}
+.hero {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+nav {
+  margin-top: 45px;
+  margin-left: 8%;
+  margin-right: 8%;
+  justify-content: space-around;
+}
+nav a {
+  text-decoration: none;
+  align-items: center;
+  color: #007bff;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-left: 18.5%;
+  font-size: 23px;
+  width: 100%;
+}
+a:hover {
+  color: lavender;
+  transition: 0.5s;
+}
+.content {
+  position: absolute;
+  top: 45%;
+  left: 8%;
+  right: 8%;
+  transform: translateY(-50%);
+}
+.content a {
+  margin-left: 18%;
+  color: #007bff;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 21px;
+  width: 100%;
+  text-decoration: none;
+}
+h1 {
+  color: lavender;
+  margin: 50px 0px 50px;
+  font-size: 40px;
+  font-weight: 200;
+}
+h2 {
+  color: lavender;
+  font-size: 32.5px;
+  font-weight: 200;
+}
+.about {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+.about-text {
+  color: lavender;
+}
+.main {
+  position: absolute;
+  display: flex;
+  top: 35%;
+  left: 8%;
+  right: 8%;
+  transform: translateY(-50%);
+}
+.about-text h2 {
+  font-size: 50px;
+  margin-top: 10%;
+  color: #007bff;
+}
+.about-text p {
+  font-size: 25px;
+  line-height: 40px;
+  margin-left: 30%;
+  letter-spacing: 1px;
+  transform: translateY(-12.5%);
+}
+.about-text a {
+  margin-left: 90.5%;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 18px;
+  width: 100%;
+}
+a:hover {
+  color: lavender;
+  transition: 0.5s;
+}
+.experience {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+.experience-text {
+  color: lavender;
+}
+.experience-text h2 {
+  font-size: 50px;
+  margin-top: 19%;
+  color: #007bff;
+}
+.experience-text p {
+  font-size: 25px;
+  line-height: 40px;
+  margin-left: 30%;
+  letter-spacing: 1px;
+  transform: translateY(-12.5%);
+}
+.experience-text a {
+  margin-left: 90.5%;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 18px;
+  width: 100%;
+}
+a:hover {
+  color: lavender;
+  transition: 0.5s;
+}
+.skills {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+.skills-text {
+  color: lavender;
+}
+.skills-text h2 {
+  font-size: 50px;
+  margin-top: 18%;
+  color: #007bff;
+}
+.skills-text p {
+  font-size: 25px;
+  line-height: 40px;
+  margin-left: 30%;
+  letter-spacing: 1px;
+  transform: translateY(-12.5%);
+}
+.skills-text a {
+  margin-left: 90.5%;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 18px;
+  width: 100%;
+}
+a:hover {
+  color: lavender;
+  transition: 0.5s;
+}
