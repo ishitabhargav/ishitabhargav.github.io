@@ -59,7 +59,7 @@ h2 {
 }
 .about {
   position: relative;
-  height: 100vh;
+  height: 100vh; /* can change height */
   width: 100%;
 }
 .about-text {
@@ -100,7 +100,7 @@ a:hover {
 }
 .experience {
   position: relative;
-  height: 100vh;
+  height: 100vh; /* can change height */
   width: 100%;
 }
 .experience-text {
@@ -108,7 +108,7 @@ a:hover {
 }
 .experience-text h2 {
   font-size: 50px;
-  margin-top: 19%;
+  margin-top: 12%;
   color: #007bff;
 }
 .experience-text p {
@@ -133,7 +133,7 @@ a:hover {
 }
 .skills {
   position: relative;
-  height: 100vh;
+  height: 100vh; /* can change height */
   width: 100%;
 }
 .skills-text {
@@ -141,7 +141,7 @@ a:hover {
 }
 .skills-text h2 {
   font-size: 50px;
-  margin-top: 18%;
+  margin-top: 15%;
   color: #007bff;
 }
 .skills-text p {
